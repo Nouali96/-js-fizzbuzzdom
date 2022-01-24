@@ -1,0 +1,42 @@
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #083B4C;
+}
+
+h1{
+    color: white;
+    font-size: 50px;  
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    background-color: #1389B2;
+}
+
+.box-fizzbuzz {
+    background-color: #F0466F;
+}
+
+.box-fizz {
+    background-color: #0BD6A0;
+}
+
+.box-buzz {
+    background-color: #EDC361;
+}
+
