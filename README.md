@@ -1,1 +1,1 @@
-# -js-fizzbuzzdom
+# js-fizzbuzzdom
